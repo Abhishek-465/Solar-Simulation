@@ -35,7 +35,7 @@ This project simulates the orbits of terrestrial planets around the Sun using Py
 
 3. Run the simulation:
    ```bash
-   python main.py
+   python solar_system.py
    ```
 ## Conclusion
 The replacement of the Sun with a black hole of the same mass does not change the gravitational environment of the solar system. The planets continue to orbit as they did before because the gravitational force acting on them remains unchanged.
